@@ -29,7 +29,7 @@ other = "メッセージ"
 other = "メールアドレスは必須です"
 
 [send]
-other = "Send"
+other = "送信"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
